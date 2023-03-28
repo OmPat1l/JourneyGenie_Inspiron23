@@ -297,7 +297,7 @@ app.listen(PORT, () => {
 });
 
 // app.get("/weather", (req, res) => {
-//   const weather = `http://api.weatherapi.com/v1/current.json?key=9f944bc0f1d947b3a2a132553232403&q=${city}&aqi=no`;
+//   const weather = `http://api.weatherapi.com/v1/current.json?key=${city}&aqi=no`;
 //   let buffWeather = weather.current;
 //   let w = JSON.parse(buffWeather);
 //   res.send(w);
