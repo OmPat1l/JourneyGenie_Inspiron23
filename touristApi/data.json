@@ -1,0 +1,69 @@
+[
+  {
+    "city": "Delhi",
+    "persons": [
+      { "name": "Rahul", "cost": 750 },
+      { "name": "Priya", "cost": 900 }
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "persons": [
+      { "name": "Amit", "cost": 600 },
+      { "name": "Neha", "cost": 800 },
+      { "name": "Suresh", "cost": 950 }
+    ]
+  },
+  {
+    "city": "Bangalore",
+    "persons": [
+      { "name": "Arun", "cost": 700 },
+      { "name": "Shruti", "cost": 850 }
+    ]
+  },
+  {
+    "city": "Chennai",
+    "persons": [{ "name": "Manoj", "cost": 550 }]
+  },
+  {
+    "city": "Kolkata",
+    "persons": [
+      { "name": "Anjali", "cost": 750 },
+      { "name": "Vikram", "cost": 900 }
+    ]
+  },
+  {
+    "city": "Hyderabad",
+    "persons": [
+      { "name": "Kiran", "cost": 800 },
+      { "name": "Shikha", "cost": 650 },
+      { "name": "Vijay", "cost": 550 }
+    ]
+  },
+  {
+    "city": "Pune",
+    "persons": [
+      { "name": "Sanjay", "cost": 700 },
+      { "name": "Divya", "cost": 950 }
+    ]
+  },
+  {
+    "city": "Jaipur",
+    "persons": [{ "name": "Rajeev", "cost": 600 }]
+  },
+  {
+    "city": "Ahmedabad",
+    "persons": [
+      { "name": "Nikhil", "cost": 850 },
+      { "name": "Swati", "cost": 750 },
+      { "name": "Gaurav", "cost": 700 }
+    ]
+  },
+  {
+    "city": "Lucknow",
+    "persons": [
+      { "name": "Rohit", "cost": 800 },
+      { "name": "Tanvi", "cost": 550 }
+    ]
+  }
+]
