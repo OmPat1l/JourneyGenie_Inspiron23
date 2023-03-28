@@ -10,7 +10,7 @@ app.use((req, res, next) => {
   next();
 });
 
-const apiKey = "5ae2e3f221c38a28845f05b6e05cf2e1f64880a355c12e1b7caba929";
+const apiKey = "yourApiKey";
 let dataArray = 0;
 let city = 0;
 let kind = 0;
